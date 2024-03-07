@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Tom\\Documents\\Repos\\Login-Menu\\Login\u002BMenuApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BB9A6CD9-E349-4D0B-8F99-98C5CF10B0C9}|Login\u002BMenu\\Login\u002BMenu.csproj|c:\\users\\tom\\documents\\repos\\login-menu\\login\u002Bmenuapp\\login\u002Bmenu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9A6CD9-E349-4D0B-8F99-98C5CF10B0C9}|Login\u002BMenu\\Login\u002BMenu.csproj|solutionrelative:login\u002Bmenu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9A6CD9-E349-4D0B-8F99-98C5CF10B0C9}|Login\u002BMenu\\Login\u002BMenu.csproj|c:\\users\\tom\\documents\\repos\\login-menu\\login\u002Bmenuapp\\login\u002Bmenu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9A6CD9-E349-4D0B-8F99-98C5CF10B0C9}|Login\u002BMenu\\Login\u002BMenu.csproj|solutionrelative:login\u002Bmenu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB9A6CD9-E349-4D0B-8F99-98C5CF10B0C9}|Login\u002BMenu\\Login\u002BMenu.csproj|c:\\users\\tom\\documents\\repos\\login-menu\\login\u002Bmenuapp\\login\u002Bmenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB9A6CD9-E349-4D0B-8F99-98C5CF10B0C9}|Login\u002BMenu\\Login\u002BMenu.csproj|solutionrelative:login\u002Bmenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,12 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\Documents\\Repos\\Login-Menu\\Login\u002BMenuApp\\Login\u002BMenu\\Menu.cs",
+              "RelativeDocumentMoniker": "Login\u002BMenu\\Menu.cs",
+              "ToolTip": "C:\\Users\\Tom\\Documents\\Repos\\Login-Menu\\Login\u002BMenuApp\\Login\u002BMenu\\Menu.cs",
+              "RelativeToolTip": "Login\u002BMenu\\Menu.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:28:31.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\Documents\\Repos\\Login-Menu\\Login\u002BMenuApp\\Login\u002BMenu\\Login.cs",
+              "RelativeDocumentMoniker": "Login\u002BMenu\\Login.cs",
+              "ToolTip": "C:\\Users\\Tom\\Documents\\Repos\\Login-Menu\\Login\u002BMenuApp\\Login\u002BMenu\\Login.cs",
+              "RelativeToolTip": "Login\u002BMenu\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:28:15.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tom\\Documents\\Repos\\Login-Menu\\Login\u002BMenuApp\\Login\u002BMenu\\Program.cs",
               "RelativeDocumentMoniker": "Login\u002BMenu\\Program.cs",
               "ToolTip": "C:\\Users\\Tom\\Documents\\Repos\\Login-Menu\\Login\u002BMenuApp\\Login\u002BMenu\\Program.cs",
               "RelativeToolTip": "Login\u002BMenu\\Program.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAYwDMAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T12:26:03.065Z",
               "EditorCaption": ""
